@@ -1,0 +1,2 @@
+# ninjs-gmagick
+GraphicsMagick wrapper
